@@ -38,11 +38,11 @@
 
 <script setup>
     useSeoMeta({
-        title: 'MOYA - Under Construction',
-        ogTitle: 'Moya',
-        description: 'Moya Description',
-        ogDescription: 'Moya OG Description',
-        ogImage: 'https://example.com/image.png',
+        title: 'Moya - We’re Coming Soon',
+        ogTitle: 'Moya - We’re Coming Soon',
+        description: 'We are using this time to give our website a revamp! Please leave us your email and we will let you know when we are back up.',
+        ogDescription: 'We are using this time to give our website a revamp! Please leave us your email and we will let you know when we are back up.',
+        ogImage: 'https://moya.com/moyalogo.png',
         twitterCard: 'summary_large_image',
     })
 </script>
