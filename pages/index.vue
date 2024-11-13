@@ -2,7 +2,7 @@
     <div class="flex flex-col justify-center items-center relative min-h-screen w-full overflow-hidden text-white py-10">
         <img src="~/assets/img/shape.webp" alt="Background Shape" class="h-full left-1/2 -translate-x-1/2 absolute -z-10" />
         <div class="container">
-            <section class="flex max-lg:flex-col items-center max-lg:gap-10 lg:gap-10">
+            <section class="flex max-lg:flex-col items-center max-lg:gap-10 lg:gap-24">
                 <div class="xl:w-1/3 w-full">
                     <div class="mb-10">
                         <svg width="193" height="56" viewBox="0 0 193 56" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -17,9 +17,9 @@
                     <a href="mailto:info@moya.com" class="mt-8 m-button">Contact us</a>
                 </div>
                 <div class="xl:w-2/3 w-full">
-                    <div class="aspect-[16/9] rounded-2xl overflow-hidden">
+                    <div class="md:aspect-[16/9] max-md:aspect-[3/4] rounded-2xl overflow-hidden">
                         <video
-                            class="w-full"
+                            class="w-full max-md:h-full max-md:object-cover"
                             src="~/assets/video.webm"
                             poster="~/assets/img/video-poster.webp"
                             autoplay
