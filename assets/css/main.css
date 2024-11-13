@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  font-family: "Source Serif 4", serif;
+  font-weight: 400;
+}
+
+.m-button {
+  text-align: center;
+  color: black;
+  background-color: white;
+  border-radius: 50px;
+  padding: 10px 30px;
+  display: inline-block;
+  font-weight: 700;
+  transition: all 0.15s linear;
+  border: 1px solid white;
+}
+
+.m-button:hover {
+  background-color: transparent;
+  color: white;
+}
