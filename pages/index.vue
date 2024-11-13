@@ -24,6 +24,7 @@
                             poster="~/assets/img/video-poster.webp"
                             autoplay
                             muted
+                            playsinline
                             loop
                         ></video>
                     </div>
