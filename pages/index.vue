@@ -14,7 +14,7 @@
                     </div>
                     <h1 class="max-lg:text-3xl lg:text-4xl mb-3 font-[700]">We’re Coming Soon</h1>
                     <p>We are using this time to give our website a revamp! Please leave us your email and we will let you know when we are back up.</p>
-                    <a href="mailto:info@moya.com" class="mt-8 m-button">Contact us</a>
+                    <a href="mailto:hassan.raya@montymobile.com" class="mt-8 m-button">Contact us</a>
                 </div>
                 <div class="xl:w-2/3 w-full">
                     <div class="md:aspect-[16/9] max-md:aspect-[3/4] rounded-2xl overflow-hidden">
