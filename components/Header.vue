@@ -1,5 +1,4 @@
 <template>
     <header>
-        This is the header
     </header>
 </template>
